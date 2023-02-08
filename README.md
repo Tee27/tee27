@@ -12,12 +12,13 @@ Ms Cloud Computing Architecture ( In View) .
 <img width="100%" height = "250px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner7.png" alt="cover" />
 </div>
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
+<h1> Hello Fellow < Cloud Engineers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=tee27.tee27)
-
 </p>
+  
+ 
 <div size='20px'> Hi! My name is Augusta F. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
@@ -26,7 +27,9 @@ Ms Cloud Computing Architecture ( In View) .
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 
 
-- 🔭 I’m currently working on SDLC & Agile Methodologies
+- 🔭 I’m currently utilizing these tools on a daily! 
+  
+  SDLC & Agile Methodologies
 
 • Shell scripting (Linux and macOS)
 
