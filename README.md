@@ -88,16 +88,21 @@ Github projects, Creating blog content, starting a Youtube channel
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@tee27&compact=True"/>
 </a>
 <br>
-
-
+  
+  
+  
 <h2> My GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px> </h2>
+  
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=tee27&count_private=true&show_icons=true&theme=default" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tee27&theme=default" />
-</a>
+<a href="https://github.com/Tee27" alt="Go to GitHub profile">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tee27&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"
+        alt="Top languages card" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tee27" alt="Streak stats card" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Tee27&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" 
+        alt="Profile stats card" />
+</a>  
+  
+
 
 <h2> My Blog Posts </h2>
 
